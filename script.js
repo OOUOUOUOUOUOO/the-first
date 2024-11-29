@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    alert("欢迎访问我的网页！");
+    alert("点开这个按钮的人是狗");
 });
 // script.js
 document.addEventListener("DOMContentLoaded", function() {
@@ -36,8 +36,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // 鼠标点击时显示信息
     hoverButton.addEventListener('click', function() {
-        alert('你点击了按钮！');
+        alert('你是狗吧说了不要点开');
     });
 });
-
-
